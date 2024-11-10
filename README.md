@@ -6,7 +6,7 @@ Installation
 Dataset
 Project Tasks
 Code Walkthrough
-Analysis Insights
+Analysis Insights.
 **Dataset**
 The dataset consists of 458 rows and 9 columns:
 Name: Name of the employee
